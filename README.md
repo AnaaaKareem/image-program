@@ -1,5 +1,9 @@
 # Assignment 1
 
+## Quick Note
+I have finished this project in 2023 at the University of Leeds. It was in a repository on the university's github account in which I have no longer access to. Hence, I am re-uploading this project as I have a backup of it in my google drive. 
+Thank you.
+
 ## Quick Links
 - [Key Information](#key-information)
 - [The Task](#the-task)
